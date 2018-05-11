@@ -9,7 +9,7 @@ FILE
 tagger.pl - Main program.
 </pre>
 
-CONTACT
+SOURCE
 
-Source: https://github.com/KyomaHooin/tagger
+https://github.com/KyomaHooin/tagger
 
